@@ -1,0 +1,10 @@
+The object of the game:
+To turn all the cards face up.
+
+The Deal:
+The cards are dealt in packets of four.  Each packet is placed on the edge of a circle, representing a clock; one packet is placed in the center of the clock.
+
+How to play:
+Click (or drag if you wish) the active card that is facing up.  One card is turned up from the start.  Move this card to its corresponding position on the clock, so that twos are at two o'clock, nines are at 9 o'clock, queens are at noon, etc.  Kings are placed in the center.  When a card is moved to the correct position on the clock, the top card in that packet is turned up and then becomes the active card.
+
+Game play continues until all the cards are facing up, when the player wins, or when all the kings are in the center, when the player loses.

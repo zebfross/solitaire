@@ -1,0 +1,10 @@
+The object of the game:
+To get all the cards in order from Ace to King, left to right, in each row with an empty space to the right of the kings.  All cards in a row should have the same suit, but the suits don't have to be in any particular row, i.e. diamonds don't have to be in the first row of cards.
+
+The Deal:
+The cards are dealt in a random order except for four empty places on the left end of each row.  Empty spaces are denoted by a gray card.
+
+How to play:
+Drag and drop cards to move them.  Cards can only be moved into empty positions (the gray cards).  If you attempt to drop a card in an illegal position, it will beep and return the card to its original slot.
+
+With a few exceptions, a card can only be placed in an empty slot if the card directly to the left is the same suit and one face-value smaller than the card being moved.  So, if there is an empty slot next to an eight of diamonds, a nine of diamonds is the only card that can be placed in that slot.  Aces are the exception because they can be placed in the empty slots on the far left side of the table.
